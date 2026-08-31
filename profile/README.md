@@ -36,7 +36,7 @@ Kami ada di beberapa platform digital, marilah bergabung bersama ke komunitas ka
 <p align="left">
   <!-- <a href="https://store.steampowered.com"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/></a> -->
   <!-- <a href="https://osu.ppy.sh"><img src="https://img.shields.io/badge/osu!-FF66AA?style=for-the-badge&logo=osu!&logoColor=white" alt="osu!"/></a> -->
-  <a href="blumada.html"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 </p>
 
 ---
