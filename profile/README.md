@@ -1,13 +1,18 @@
 <div align="center">
   <p>Welcome To our organization</p>
   <h1>Telkom Ngoding</h1>
-</div>
+
 
 ---
 
-<p align="center">
-  <img src="https://via.placeholder.com/1000x400.png?text=GANTI+DENGAN+URL+BANNER+KAMU" alt="Banner CS" width="100%">
-</p>
+![](https://img.shields.io/badge/Community-Driven-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Chill_%26_Fun-Green?style=for-the-badge)
+![](https://img.shields.io/badge/Keep-Learning-orange?style=for-the-badge)
+</div>
+
+<!-- <p align="center">
+  <img src="https://via.placeholder.com/1000x400.png?text=GANTI+DENGAN+URL+BANNER+KAMU" alt="" width="100%">
+</p> -->
 
 <p align="center">
   <i>"Gak tau ah Pokoknya ngoding"</i>
