@@ -24,9 +24,6 @@ ini adalah tempat kumpul anak-anak telkom bjb atau lainnya yang pengen share pro
 
 dan yup, ini komunitas open source, jadi gak cuma anak telkom yang boleh join, semua pun boleh 😁
 
-### Gabunglah bersama kami
-Kami ada di beberapa platform digital, marilah bergabung bersama ke komunitas kami
-
 #### Sosial Media
 <p align="left">
   <!-- <a href="https://facebook.com"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a> -->
