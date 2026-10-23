@@ -20,7 +20,7 @@
 
 ---
 
-ini adalah tempat kumpul anak-anak telkom bjb atau lainnya yang pengen pamer proyek, belajar koding bareng, atau sekadar nyari temen buat bikin proyek seru. Organisasi ini dibikin secara mandiri biar kita punya wadah buat kumpulin portofolio, pamer karya publik, dan saling bantu kalau ada yang bingung pas ngoding :3 
+ini adalah tempat kumpul anak-anak telkom bjb atau lainnya yang pengen share proyek, belajar koding bareng, atau sekadar nyari temen buat bikin proyek seru. Organisasi ini dibikin secara mandiri sebagai wadah buat kumpulin portofolio, share karya publik, dan saling bantu kalau ada yang bingung pas ngoding :3 
 
 dan yup, ini komunitas open source, jadi gak cuma anak telkom yang boleh join, semua pun boleh 😁
 
